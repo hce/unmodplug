@@ -1,5 +1,11 @@
 This is UnModPlug, an attempt to get Oliver Lapicque's libmodplug into
-Unreal/DeusEx. To compile, you need VC++6, the deus ex public headers
-and the libmodplug.dll. libmodplug.dll is needed because Oliver's code
-doesn't compile nicely with VC++6, so libmodplug.dll was generated
-with a newer version of VC. You also need SDL and SDL audio.
+Unreal/DeusEx.
+
+I've put this on github for informational purpose. If you want to use
+it, contact me to get a compiled version, or simply download the
+dxvetery mod, which includes it, and for which it was made for.
+
+Still: To compile, you need VC++6, the deus ex public headers and the
+libmodplug.dll. libmodplug.dll is needed because Oliver's code doesn't
+compile nicely with VC++6, so libmodplug.dll was generated with a
+newer version of VC.  You also need SDL and SDL audio.
