@@ -1,0 +1,5 @@
+This is UnModPlug, an attempt to get Oliver Lapicque's libmodplug into
+Unreal/DeusEx. To compile, you need VC++6, the deus ex public headers
+and the libmodplug.dll. libmodplug.dll is needed because Oliver's code
+doesn't compile nicely with VC++6, so libmodplug.dll was generated
+with a newer version of VC.
